@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : &name "Kevin Esslinger"
+  name             : "Kevin Esslinger"
   avatar           : "profile.png"
   bio              : "Research assistant in the Helping Hands lab and Lab for Learning and Planning in Robotics at Northesatern University in Boston, MA. "
   location         : "Boston, MA"
-  employer         : ["Northeastern University"]("https://www.northeastern.edu")
+  employer         : "Northeastern University" #["Northeastern University"]("https://www.northeastern.edu")
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "esslinger.k@northeastern.edu"
