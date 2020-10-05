@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Esslinger"
+  name             : &name "Kevin Esslinger"
   avatar           : "profile.png"
   bio              : "Research assistant in the Helping Hands lab and Lab for Learning and Planning in Robotics at Northesatern University in Boston, MA. "
   location         : "Boston, MA"
