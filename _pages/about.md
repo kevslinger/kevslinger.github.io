@@ -27,4 +27,4 @@ Research Experience
 
 Contact
 ------
-The best way to contact me is through email at esslinger [dot] k [at] northeastern [dot] edu. My office is in the lab area on the 6th floor of ISEC, 805 Columbus Ave, Boston, MA 02120. 
+The best way to contact me is through email at esslinger [dot] k [at] northeastern [dot] edu. My office is in the lab area on the 5th floor of ISEC, 805 Columbus Ave, Boston, MA 02120. 
