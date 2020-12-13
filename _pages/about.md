@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Kevin, a PhD student at Northeastern University. Co-advised by [Chris Amato](https://www.ccs.neu.edu/home/camato/) and [Rob Platt](https://www.ccs.neu.edu/home/rplatt/), I am working at the intersection of reinforcement learning and robotics. Prior to Northeastern, I was an undergraduate student at [Temple University](https://www.temple.edu/) in Philadelphia, where I majored in Matchematics and Computer Science with a minor in Data Science, and graduated Summa Cum Laude. 
+I'm Kevin, a PhD student at Northeastern University. Co-advised by [Chris Amato](https://www.ccs.neu.edu/home/camato/) and [Rob Platt](https://www.ccs.neu.edu/home/rplatt/), I am working at the intersection of reinforcement learning and robotics. Prior to Northeastern, I was an undergraduate student at [Temple University](https://www.temple.edu/) in Philadelphia, where I majored in Mathematics and Computer Science with a minor in Data Science, and graduated Summa Cum Laude. 
 
 Outside of school, I like to play games such as [TeamFight Tactics](https://na.leagueoflegends.com/en/featured/events/teamfight-tactics), [Pokemon](https://www.pokemon.com/us/), and [Magic: the Gathering](https://magic.wizards.com/en). I earned my Eagle Scout award in 2015.
 
